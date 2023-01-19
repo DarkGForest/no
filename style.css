@@ -1,0 +1,23 @@
+* {
+  font-size: 128px;
+  font-family: Arial;
+}
+      
+section {
+  border: 10px white;
+  height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+      
+.container {
+  border: 10px white;
+  max-width: 700px;
+  width: 100%;
+  margin: auto;
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
